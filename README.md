@@ -66,7 +66,7 @@ Users can filter by **region** (Central, East, South, West) and analyze the data
 
 ## 📁 Screenshot
 
-![Dashboard Preview](./Superstore%Sales%Dashboard.png)
+![Dashboard Preview](./Superstore%20Sales%20Dashboard.png)
 
 ---
 
